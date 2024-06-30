@@ -4,6 +4,18 @@
     <option name="deviceSelectionList">
       <list>
         <PersistentDeviceSelectionData>
+          <option name="api" value="34" />
+          <option name="brand" value="google" />
+          <option name="codename" value="husky" />
+          <option name="id" value="husky" />
+          <option name="manufacturer" value="Google" />
+          <option name="name" value="Pixel 8 Pro" />
+          <option name="screenDensity" value="390" />
+          <option name="screenX" value="1008" />
+          <option name="screenY" value="2244" />
+          <option name="selected" value="true" />
+        </PersistentDeviceSelectionData>
+        <PersistentDeviceSelectionData>
           <option name="api" value="27" />
           <option name="brand" value="DOCOMO" />
           <option name="codename" value="F01L" />
@@ -123,17 +135,6 @@
           <option name="screenDensity" value="320" />
           <option name="screenX" value="1848" />
           <option name="screenY" value="2960" />
-        </PersistentDeviceSelectionData>
-        <PersistentDeviceSelectionData>
-          <option name="api" value="34" />
-          <option name="brand" value="google" />
-          <option name="codename" value="husky" />
-          <option name="id" value="husky" />
-          <option name="manufacturer" value="Google" />
-          <option name="name" value="Pixel 8 Pro" />
-          <option name="screenDensity" value="390" />
-          <option name="screenX" value="1008" />
-          <option name="screenY" value="2244" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
           <option name="api" value="30" />
@@ -259,5 +260,6 @@
         </PersistentDeviceSelectionData>
       </list>
     </option>
+    <option name="selectedCloudProject" value="shopping-app-5643f" />
   </component>
 </project>
